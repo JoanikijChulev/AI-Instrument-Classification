@@ -278,10 +278,3 @@ Plain-text citation:
 
 > Chulev, J. (2024). *Improving Musical Instrument Classification with Advanced Machine Learning Techniques*. arXiv:2411.00275. https://doi.org/10.48550/arXiv.2411.00275
 
-## Author
-
-Developed by [Joanikij Chulev](https://github.com/JoanikijChulev).
-
-## License
-
-No separate software license is currently included in this repository. The license attached to the paper does not automatically apply to the repository’s source code.

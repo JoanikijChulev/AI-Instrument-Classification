@@ -7,7 +7,7 @@ A comparative machine-learning and deep-learning study for classifying musical i
 This repository contains the implementation and experiments accompanying:
 
 > Joanikij Chulev, **“Improving Musical Instrument Classification with Advanced Machine Learning Techniques,”** arXiv:2411.00275, 2024.  
-> [Paper](https://arxiv.org/abs/2411.00275) · [PDF](https://arxiv.org/pdf/2411.00275) · [DOI](https://doi.org/10.48550/arXiv.2411.00275) · [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qC0bn88AAAAJ&citation_for_view=qC0bn88AAAAJ:9yKSN-GCB0IC)
+> [Paper](https://arxiv.org/abs/2411.00275) · [PDF](https://arxiv.org/pdf/2411.00275)
 
 ## Project Overview
 

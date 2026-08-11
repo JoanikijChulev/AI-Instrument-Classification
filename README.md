@@ -242,24 +242,6 @@ The recommended execution order is:
 10. **Scaling analysis**  
     Run `Power Curve Fitting.ipynb` to analyze how model performance changes with training-set size.
 
-## Selected Recorded Results
-
-The saved outputs in the 8,500-samples-per-class classical ML notebooks report:
-
-| Model | Accuracy |
-|---|---:|
-| Random Forest with randomized search | 93.12% |
-| Random Forest | 91.71% |
-| XGBoost | 87.46% |
-| Support Vector Machine | 75.62% |
-| Gradient Boosting | 49.98% |
-| AdaBoost | 48.05% |
-| Gaussian Naive Bayes | 18.50% |
-
-The associated paper reports that the CNN-based classifier achieved the strongest overall performance among the evaluated individual model families. It also reports an accuracy of 94.8% for the experimental dual-input model after 20 training epochs.
-
-These values are taken from the existing notebook outputs and associated paper. They have not been independently rerun for this README. Consult the paper for the complete experimental results, confusion matrices, learning curves, architecture comparisons, and discussion.
-
 ## Reproducibility Notes
 
 For more reliable reproduction and comparison:
